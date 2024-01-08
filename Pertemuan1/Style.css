@@ -1,0 +1,28 @@
+html, body{ 
+    margin: 0;
+    padding: 0;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#box{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+#table {
+    background-color: white;
+    border-collapse: collapse;
+}
+#header {
+    background-color: #C4D7B2;
+    text-align: center;
+}
+#menubar {
+background-color: #E1ECC8;
+margin: auto;
+}
+#footer {
+    background-color: #A0C49D;
+    padding: 20px;
+}
